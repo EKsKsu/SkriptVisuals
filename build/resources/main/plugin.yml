@@ -1,0 +1,8 @@
+name: SkriptVisuals
+version: '1.0.0'
+main: me.miksu.skriptvisuals.SkriptVisuals
+api-version: '26.2'
+depend: [Skript]
+description: Advanced particle effects, holograms, animations and visual effects for Skript.
+author: Miksu
+website: https://github.com/
